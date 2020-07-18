@@ -4,7 +4,7 @@
 using namespace std;
 
 //  &n = la direccion de n
-// *n = la variable de cuya direccion esta almacenada en n
+// *m = la variable de cuya direccion esta almacenada en m
 
 int main() {
 	int num;
